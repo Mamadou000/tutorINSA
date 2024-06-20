@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "114344742984",
+    "project_id": "tutoring-a550b",
+    "storage_bucket": "tutoring-a550b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114344742984:android:0781ab48582680e8c8c87d",
+        "android_client_info": {
+          "package_name": "com.example.tutorinsa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKQlyiqixHjYGsDN32BvsXRFIUu5y7J-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114344742984:android:be23a537d39732b1c8c87d",
+        "android_client_info": {
+          "package_name": "com.tutor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKQlyiqixHjYGsDN32BvsXRFIUu5y7J-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
